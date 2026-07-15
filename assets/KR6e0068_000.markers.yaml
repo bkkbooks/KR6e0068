@@ -71,6 +71,7 @@ markers:
   - {type: line-break, offset: 120, content: '', id: KR6e0068_X_000-0001a16, ed: X, 'n': 0001a16}
   - {type: line-break, offset: 120, content: '', id: KR6e0068_X_000-0706a13, ed: R088, 'n': 0706a13}
   - {type: xml-element, offset: 120, content: '', id: itemX05p0001a1601, name: item, role: open, attrs: {'xml:id': itemX05p0001a1601}}
+  - {type: substitution, offset: 120, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16205}}
   - {type: xml-element, offset: 129, content: '', id: itemX05p0001a1601_end, name: item, role: close, attrs: {'xml:id': itemX05p0001a1601}}
   - {type: line-break, offset: 129, content: '', id: KR6e0068_X_000-0001a17, ed: X, 'n': 0001a17}
   - {type: line-break, offset: 129, content: '', id: KR6e0068_X_000-0706a14, ed: R088, 'n': 0706a14}
@@ -168,6 +169,7 @@ markers:
   - {type: xml-element, offset: 344, content: '', id: itemX05p0001b1101, name: item, role: open, attrs: {'xml:id': itemX05p0001b1101}}
   - {type: xml-element, offset: 352, content: '', id: itemX05p0001b1101_end, name: item, role: close, attrs: {'xml:id': itemX05p0001b1101}}
   - {type: xml-element, offset: 352, content: '', id: itemX05p0001b1109, name: item, role: open, attrs: {'xml:id': itemX05p0001b1109}}
+  - {type: substitution, offset: 353, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19443}}
   - {type: xml-element, offset: 354, content: '', id: itemX05p0001b1109_end, name: item, role: close, attrs: {'xml:id': itemX05p0001b1109}}
   - {type: xml-element, offset: 354, content: '', id: itemX05p0001b1111, name: item, role: open, attrs: {'xml:id': itemX05p0001b1111}}
   - {type: xml-element, offset: 357, content: '', id: itemX05p0001b1111_end, name: item, role: close, attrs: {'xml:id': itemX05p0001b1111}}
@@ -197,4 +199,4 @@ markers:
   - {type: line-break, offset: 367, content: '', id: KR6e0068_X_000-0707a01, ed: R088, 'n': 0707a01}
   body: []
   back: []
-hash: sha256:5020c091f4b7049287fa424c5b51eb61783d8ac7c7dca2a49b41ab41c06abc5c
+hash: sha256:3b61dcd40b0b25ad156aff72d0f48bfcc9320b147b276ba8b92ca5246b198a2b
