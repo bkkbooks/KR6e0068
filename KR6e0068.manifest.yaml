@@ -21,12 +21,12 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0068_000.yaml, hash: 'sha256:635eac0545fde6c3c010f2ffa6f3dbe7d3d0e0e826b7055197e10d9fa116f604'}
+  - {seq: 0, filename: KR6e0068_000.yaml, hash: 'sha256:a2067241a5ed87812b4e978b754490620b818a8d6b1906cb09592e60d708b4a0'}
   - {seq: 1, filename: KR6e0068_001.yaml, hash: 'sha256:67fdded1250bd7100759b0591fbac93f204cf92ec738af683b7049adaadadf2c'}
   - {seq: 2, filename: KR6e0068_002.yaml, hash: 'sha256:5f9adb7e81fdce4e7a479d556b0c1050e800a2297e8e55bd0e6f4eeb5a077e22'}
   - {seq: 3, filename: KR6e0068_003.yaml, hash: 'sha256:1c1ad212264806fc03526f534c7052284f3371d065d43126bf603aed78d6f8c3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0068_000.markers.yaml, hash: 'sha256:3b61dcd40b0b25ad156aff72d0f48bfcc9320b147b276ba8b92ca5246b198a2b'}
+  - {seq: 0, role: markers, filename: assets/KR6e0068_000.markers.yaml, hash: 'sha256:eff900ff6f3c4bb419fc6fbbed3b539f5d8791c2797240e4a31194aebcbb91e3'}
   - {seq: 1, role: markers, filename: assets/KR6e0068_001.markers.yaml, hash: 'sha256:800114461640f14b8bf674fa688f42905489e33291d6d9d638111eb410c3134d'}
   - {seq: 2, role: markers, filename: assets/KR6e0068_002.markers.yaml, hash: 'sha256:a8c00056c33064fff6d78b0a1efe3ccf929c82c97b2770b25f85f76f745a6106'}
   - {seq: 3, role: markers, filename: assets/KR6e0068_003.markers.yaml, hash: 'sha256:bc54a984b7800d31de918f50d937b9e7cd0a39658eb3d8a44dc198e9e001a40d'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0068_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 華嚴經合論纂要目次
@@ -601,7 +601,7 @@ table_of_contents:
   label: No. 226-B
   type: mulu
   level: 1
-hash: sha256:241946aa63ea026782d492f7423f380d013adef1280b6bb48a1394500f169fee
+hash: sha256:65c1eaaaaf74d1f4b44371a67bc0f640f63147f343ecc8a0fce257802ab4dc02
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

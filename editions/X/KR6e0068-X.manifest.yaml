@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0068_000-X.yaml, hash: 'sha256:9aa2cd01cd452f104956c04214cd56fef6c5035fd804cc59176a2ab244ef875e'}
+  - {seq: 0, filename: KR6e0068_000-X.yaml, hash: 'sha256:a4b6dec35cf3a0805e64c85f5b4bbb6766c99a9df5f8c4918b49ac4d6277d50b'}
   - {seq: 1, filename: KR6e0068_001-X.yaml, hash: 'sha256:cafcad75a4250271864649cb08a7490ffaee5366e6fc1cbcf2ceb7a41440dd0a'}
   - {seq: 2, filename: KR6e0068_002-X.yaml, hash: 'sha256:80de710582501637f81f64475b849bca1b3a1356564659ecf96113b9757a8b5e'}
   - {seq: 3, filename: KR6e0068_003-X.yaml, hash: 'sha256:9ec4b1a066ba262541cb3aed49678d90bed2771d0ba67f07932b7678e38e17e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0068_000-X.markers.yaml, hash: 'sha256:29505a1eee8c94e70e85f37abfdbed7b5cd5710420305cbf74e0fc4d9c6510c5'}
+  - {seq: 0, role: markers, filename: assets/KR6e0068_000-X.markers.yaml, hash: 'sha256:2e062c05ebc3827d61a1e47430b0ef47e7b9a47774d7dadaa629b81d2775723d'}
   - {seq: 1, role: markers, filename: assets/KR6e0068_001-X.markers.yaml, hash: 'sha256:11321a66bd5649305cb6c55976a050c5f3ab627548d5a546167d98c7f5cf922f'}
   - {seq: 2, role: markers, filename: assets/KR6e0068_002-X.markers.yaml, hash: 'sha256:58a6b41fad44cbf22ab7c160a74f3201412d73a6fc35f7f09590ab4f781c6489'}
   - {seq: 3, role: markers, filename: assets/KR6e0068_003-X.markers.yaml, hash: 'sha256:0f89371c1080197ff1c05e5bd38078aa58e033d971227d9a0a9bddbbca4bbf2b'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0068_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 華嚴經合論纂要目次
@@ -599,4 +599,4 @@ table_of_contents:
   label: No. 226-B
   type: mulu
   level: 1
-hash: sha256:436802c3475100dadfb726828ad1baa986ee6cce7efe6a0ee683e475077b7860
+hash: sha256:d6666e7ec5e2b3f4b14ba50ddd4789507dfc2eaae94520f11a9040e7de5e64d2
